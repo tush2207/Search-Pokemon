@@ -3,7 +3,7 @@ import axios from "axios";
 import { Card, CardMedia } from "@mui/material";
 import Typography from "@mui/material/Typography";
 import CardContent from "@mui/material/CardContent";
-
+import '../Sytle/Style.css'
 
 
 
